@@ -3,6 +3,7 @@
     "name": "Hello-Expo",
     "slug": "Hello-Expo",
     "version": "1.0.0",
+    "scheme": "dandelion",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

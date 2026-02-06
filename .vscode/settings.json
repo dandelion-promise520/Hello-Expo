@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["oxfmt", "oxlint", "urlcat"],
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  }
+}
