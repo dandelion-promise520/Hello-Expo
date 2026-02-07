@@ -11,7 +11,8 @@
     "lint": "oxlint",
     "lint:fix": "oxlint --fix",
     "fmt": "oxfmt",
-    "fmt:check": "oxfmt --check"
+    "fmt:check": "oxfmt --check",
+    "build:android": "eas build -p android"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
@@ -19,6 +20,7 @@
     "axios": "^1.13.4",
     "expo": "~54.0.33",
     "expo-constants": "^18.0.13",
+    "expo-font": "~14.0.11",
     "expo-image": "^3.0.11",
     "expo-linking": "^8.0.11",
     "expo-router": "^6.0.23",
